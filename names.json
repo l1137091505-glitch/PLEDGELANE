@@ -1,0 +1,9 @@
+{
+  "selected": "PLEDGELANE",
+  "searched": [
+    { "query": "\"Pledgelane\"", "result": "No matching crowdfunding product found in web search on 2026-11-10." },
+    { "query": "\"Vowgrid\" crowdfunding", "result": "A parked brandable domain was found, so the name was not used." },
+    { "query": "\"Kindrail\" crowdfunding", "result": "An existing product studio was found, so the name was not used." }
+  ],
+  "note": "This is a practical collision check, not a trademark clearance."
+}

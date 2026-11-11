@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#eef0f3"/>
+  <path d="M0 470h1200v160H0z" fill="#1f2de6"/>
+  <circle cx="930" cy="235" r="160" fill="#d7ff3f" stroke="#0b0c0e" stroke-width="3"/>
+  <path d="M930 75v320M770 235h320" stroke="#0b0c0e" stroke-width="2"/>
+  <text x="80" y="190" font-family="Arial" font-weight="700" font-size="92" fill="#0b0c0e">PLEDGELANE</text>
+  <text x="80" y="285" font-family="Arial" font-size="42" fill="#0b0c0e">Fund the whole promise.</text>
+  <text x="80" y="555" font-family="monospace" font-size="24" fill="#fff">ALL-OR-NOTHING CROWDFUNDING · BOT CHAIN 677</text>
+</svg>
